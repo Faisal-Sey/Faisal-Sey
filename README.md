@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Faisal-Sey
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning App Development
+- 👀 I’m interested in Software Development 
 - 💞️ I’m looking to collaborate on a software development project
 - 📫 How to reach me +233561400170, phaisalsey6@gmail.com
 
