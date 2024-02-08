@@ -57,7 +57,7 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out and connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/faisal-issaka-96810b1a5/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](www.linkedin.com/in/faisal-issaka-740ba2180)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square)](https://faisal-issaka.vercel.app/)
 
 Happy coding! 😄
