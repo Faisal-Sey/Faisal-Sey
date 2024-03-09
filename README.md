@@ -50,7 +50,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-sey&layout=compact&theme=dark&langs_count=6&hide=dockerfile,shell,batchfile,makefile,hack,c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-sey&layout=compact&theme=dark&langs_count=8&hide=dockerfile,shell,batchfile,makefile,hack,c)
 
 
 ## 📫 Let's Connect
